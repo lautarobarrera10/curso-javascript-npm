@@ -1,0 +1,30 @@
+{
+  "name": "curso-javascript-npm",
+  "version": "1.0.0",
+  "description": "Curso de NPM",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lautarobarrera10/curso-javascript-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "node"
+  ],
+  "author": "Lautaro Barrera <lautarobarrera12@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lautarobarrera10/curso-javascript-npm/issues"
+  },
+  "homepage": "https://github.com/lautarobarrera10/curso-javascript-npm#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.28.0"
+  }
+}

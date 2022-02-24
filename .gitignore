@@ -1,0 +1,2 @@
+# Módulos de node (siempre debemos ignorarlos).
+node_modules/
