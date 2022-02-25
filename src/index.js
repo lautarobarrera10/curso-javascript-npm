@@ -33,3 +33,28 @@
 
 // INSTALAR UNA VERSIÓN ESPECÍFICA
 // npm install [paquete]@[versión]
+
+
+
+// ACTUALIZAR PAQUETES
+
+// Revisar que paquetes disponen de nuevas versiones
+// npm outdate
+// Para ver un output más detallado
+// npm outdate --dd
+
+// Actualizar los paquetes que no están en la ultima versión
+// npm update
+
+// Actualizar un paquete especifico
+// npm install [paquete]@latest
+
+
+
+// ELIMINAR PAQUETES
+
+// Eliminar un paquete de node_modules y del archivo package.json
+// npm uninstall [paquete]
+
+// Desinstalar un paquete de todo node_modules pero no del archivo package.json
+// npm uninstall [paquete] --no-save
