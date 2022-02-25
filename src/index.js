@@ -18,3 +18,18 @@
 // npm install -g [paquete]
 // Para saber los recursos que están instalados de forma global
 // npm list -g --depth 0
+
+// OPCIONAL
+// npm install [paquete] -O
+
+// SIMULAR
+// npm install [paquete] --dry-run
+
+// FORZAR
+// npm install [paquete] -f
+
+// EN CASO DE MODIFICAR EL PACKAGE.JSON
+// npm install (para actualizar)
+
+// INSTALAR UNA VERSIÓN ESPECÍFICA
+// npm install [paquete]@[versión]
